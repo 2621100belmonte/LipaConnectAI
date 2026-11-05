@@ -46,7 +46,7 @@ fun HomeScreen() {
     val generativeModel = remember {
         GenerativeModel(
             modelName = "gemini-3.5-flash-lite",
-            apiKey = "AQ.Ab8RN6JhrNeYn1G5ToUwPt90Z3d-SPVS26Ex9pC7LRnCTBf1_Q"
+            apiKey = "AQ.Ab8RN6ITXRwuzHcZK1yx3zUcpE_lhxXP7IXqrAFYJYBTUoxUIA"
         )
     }
 
